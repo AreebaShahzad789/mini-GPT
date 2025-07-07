@@ -145,9 +145,3 @@ The model is built modularly:
         ```
 
 ---
-
-## Acknowledgements
-
-* This project is heavily inspired by the paper "Attention Is All You Need" by Vaswani et al. (2017).
-* The use of `tiktoken` follows practices from OpenAI.
-* The structure and some concepts are guided by educational resources on building Transformers (e.g., Andrej Karpathy's nanoGPT).
